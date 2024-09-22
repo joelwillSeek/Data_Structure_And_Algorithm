@@ -2,8 +2,6 @@
 
 <p>Learned data structures and algorithm</p>
 
-<h1> Intallation Gidline </h1>
-
 <h1> Algorithms Made</h1>
 
 <b>Search</b>
