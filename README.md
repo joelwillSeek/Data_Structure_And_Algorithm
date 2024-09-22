@@ -3,11 +3,6 @@
 <p>Learned data structures and algorithm</p>
 
 <h1> Intallation Gidline </h1>
-<p> Install java sdk and editer </p>
-<a href="https://www.oracle.com/java/technologies/downloads/">Java SDK</a>
-
-<p> Prefered editer is vistual studio code </p>
-<a href="https://code.visualstudio.com/download">Visual Studio Code Install Page</a>
 
 <h1> Algorithms Made</h1>
 
@@ -54,8 +49,12 @@
 - Java![java](https://img.icons8.com/fluency/48/java-coffee-cup-logo.png)
 
 ## Getting Started
-- Install java
-[java](https://www.oracle.com/java/technologies/downloads/)
+<p> Install java sdk and editer </p>
+<a href="https://www.oracle.com/java/technologies/downloads/">Java SDK</a>
+
+<p> Prefered editer is vistual studio code </p>
+<a href="https://code.visualstudio.com/download">Visual Studio Code Install Page</a>
+
 
 <h1>Contact Me</h1>
 <a href="joelthousend@gmail.com">joelthousend@gmail.com</a>
