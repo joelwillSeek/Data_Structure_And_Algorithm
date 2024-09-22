@@ -49,7 +49,7 @@
 - Java![java](https://img.icons8.com/fluency/48/java-coffee-cup-logo.png)
 
 ## Getting Started
-<p> Install java sdk and editer </p>
+<p> Install java SDK and editor </p>
 <a href="https://www.oracle.com/java/technologies/downloads/">Java SDK</a>
 
 <p> Prefered editer is vistual studio code </p>
