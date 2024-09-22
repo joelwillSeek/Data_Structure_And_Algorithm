@@ -49,5 +49,13 @@
   <li> Main Class (it is the main method) </li>
 </ul>
 
+
+## Built With
+- Java![java](https://img.icons8.com/fluency/48/java-coffee-cup-logo.png)
+
+## Getting Started
+- Install java
+[java](https://www.oracle.com/java/technologies/downloads/)
+
 <h1>Contact Me</h1>
 <a href="joelthousend@gmail.com">joelthousend@gmail.com</a>
