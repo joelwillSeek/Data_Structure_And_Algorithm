@@ -53,7 +53,7 @@
 <p> Prefered editer is vistual studio code </p>
 <a href="https://code.visualstudio.com/download">Visual Studio Code Install Page</a>
 
-### Then run the code in the editer
+Then run the code in the editor
 
 
 <h1>Contact Me</h1>
