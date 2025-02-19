@@ -47,13 +47,13 @@
 - Java![java](https://img.icons8.com/fluency/48/java-coffee-cup-logo.png)
 
 ## Getting Started
-<p> Install java SDK and editor </p>
+#### Install java SDK and editor
 <a href="https://www.oracle.com/java/technologies/downloads/">Java SDK</a>
 
-<p> Prefered editer is vistual studio code </p>
+#### Prefered editer is vistual studio code
 <a href="https://code.visualstudio.com/download">Visual Studio Code Install Page</a>
 
-Then run the code in the editor
+#### Then run the code in the editor
 
 
 <h1>Contact Me</h1>
